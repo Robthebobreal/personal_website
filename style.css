@@ -1,0 +1,136 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.topnav {
+    background-color: #3C0E45;
+    overflow: hidden;
+  }
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: 'Jacques Francois Shadow';
+}
+
+.topnav a:hover {
+    background-color: #741F72;
+    color: black;
+}
+
+.topnav a.split {
+    float: right;
+    color: white;
+}
+
+.text1{
+    background-color: #571f6a36;
+    font-family: 'Jacques Francois Shadow';
+    height: 150px;
+    width: 100%;
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 20px;
+    font-size: 30px;
+
+}
+.text2{
+    font-family: 'Jacques Francois Shadow';
+    background-color: #571f6a36;
+    opacity: 90%;
+    height: 150px;
+    width: 351px;
+    display: block;
+    float: right;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.text3{
+    font-family: 'Jacques Francois Shadow';
+    background-color: #571f6a36;
+    opacity: 60%;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    height: 150px;
+    left: 200px;
+    position: absolute;
+    margin-top: 20px;
+    
+}
+.Phototext{
+    scale: 0.3;
+    margin-bottom: 100%;
+    margin-right: 100%;
+
+}
+
+.astronautPhoto {
+    scale: 0.2;
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+    top: 50%;
+}
+
+.title{
+    text-align: center;
+    font-size: xx-large;
+}
+
+.text4{
+    font-family: 'Jacques Francois Shadow';
+    background-color: #571f6a36;
+    opacity: 90%;
+    height: 150px;
+    width: 351px;
+    display: block;
+    font-size: x-large;
+}
+
+.text5{
+    font-family: 'Jacques Francois Shadow';
+    background-color: #571f6a36;
+    opacity: 90%;
+    height: 150px;
+    width: 351px;
+    display: block;
+    float: right;
+    margin-top: 20px;
+    margin-left: 400px;
+}
+
+.Starphoto{
+    scale: 0.3;
+}
+
+#star-photo {
+    scale: 0.3;
+    position: absolute;
+    top: 40.5%;
+    left: ;
+}
+
+.text8{
+    font-size: xx-large;
+    font-weight: 400;
+}
+
+.text10{
+    font-size: xx-large;
+    font-weight: 400;
+}
+
+.text7{
+    font-family: 'Jacques Francois Shadow';
+    background-color: #571f6a36;
+    opacity: 90%;
+    height: 190px;
+    width: 351px;
+    display: block;
+    margin-top: 13%;
+}
